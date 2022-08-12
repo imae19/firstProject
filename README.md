@@ -1,5 +1,5 @@
-# firstProjecm
-# may new project
+# firstProject
+# May new project
 
 
 # My first Git Push Projecet
